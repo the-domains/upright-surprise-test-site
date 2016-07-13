@@ -1,0 +1,14 @@
+layout_spectrum: 0.6751410702709109
+typography_spectrum: 0.8718655491247773
+color:
+  brandStrength: 0.7618445032276213
+  lightness: 0.22984765167348087
+  saturation: 0.28141589602455497
+  rhythmicContrast: 0.7518939024303108
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: upright surprise test site
